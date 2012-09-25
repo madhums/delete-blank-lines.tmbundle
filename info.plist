@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmail</key>
+	<string>madhums8@gmail.com</string>
+	<key>contactEmailRot13</key>
+	<string>znquhzf8@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Madhusudhan Srinivasa</string>
+	<key>description</key>
+	<string>Delete blank lines</string>
+	<key>name</key>
+	<string>Delete blank lines</string>
+	<key>uuid</key>
+	<string>3D8A0141-80D6-4FA2-BF4D-C1E2895322D8</string>
+</dict>
+</plist>
